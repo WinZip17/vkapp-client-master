@@ -2,6 +2,7 @@
   "name": "master-and-model",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "@noname.team/helpers": "^1.7.3",
     "@vkontakte/icons": "^1.13.0",
@@ -12,6 +13,7 @@
     "@vkontakte/vkui-connect-mock": "^1.0.61",
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.2.0",
     "jquery": "^3.4.0",
     "leaflet": "^1.5.1",
     "leaflet.markercluster": "^1.4.1",
@@ -33,7 +35,10 @@
     "start": "set HTTPS=true&&react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+
   },
   "browserslist": [
     ">0.2%",
