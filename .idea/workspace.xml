@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="284071f0-19b4-46bc-a689-bd612fb07b70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/components/feed-view/feed-view.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1Y25bNrToR9xY5zpfIKrb46W3NM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vk-app-traffic-check" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Project\vkapp-client-master\src\components\feed-view" />
+      <recent name="C:\Project\vkapp-client-master\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="284071f0-19b4-46bc-a689-bd612fb07b70" name="Default Changelist" comment="" />
+      <created>1582127919061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582127919061</updated>
+      <workItem from="1582127921080" duration="512000" />
+      <workItem from="1582130918740" duration="58000" />
+      <workItem from="1582131334974" duration="467000" />
+      <workItem from="1582131917199" duration="3028000" />
+      <workItem from="1582214649410" duration="11120000" />
+      <workItem from="1582269340989" duration="38000" />
+      <workItem from="1582535697295" duration="84000" />
+      <workItem from="1582550302298" duration="6484000" />
+      <workItem from="1582556961964" duration="4919000" />
+      <workItem from="1582562716549" duration="12000" />
+      <workItem from="1582618640086" duration="826000" />
+      <workItem from="1582787825603" duration="137000" />
+      <workItem from="1582892491769" duration="117000" />
+      <workItem from="1582994037055" duration="12881000" />
+      <workItem from="1583037992735" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582215582533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582215582533" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583038000802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583038000802" />
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom" timestamp="1583007818824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583007818824" />
+    <state width="1515" height="2" key="GridCell.Tab.0.center" timestamp="1583007818824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583007818824" />
+    <state width="1515" height="2" key="GridCell.Tab.0.left" timestamp="1583007818824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583007818824" />
+    <state width="1515" height="2" key="GridCell.Tab.0.right" timestamp="1583007818824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583007818824" />
+    <state x="463" y="144" width="611" height="536" key="find.popup" timestamp="1582999974066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="611" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1582999974066" />
+  </component>
+</project>
