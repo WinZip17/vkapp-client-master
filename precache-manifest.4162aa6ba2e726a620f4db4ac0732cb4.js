@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "./static/media/GothamPro-BoldItalic.0b468847.ttf"
   },
   {
-    "revision": "37ed223f1f7d850af5fb069d2e42b2c1",
-    "url": "./static/media/GothamPro-Italic.37ed223f.eot"
-  },
-  {
     "revision": "71f3484873a700b056ba019138925996",
     "url": "./static/media/GothamPro-Italic.71f34848.woff"
+  },
+  {
+    "revision": "37ed223f1f7d850af5fb069d2e42b2c1",
+    "url": "./static/media/GothamPro-Italic.37ed223f.eot"
   },
   {
     "revision": "628b3e58e45479eabd863d42c083f1d3",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "./static/media/GothamPro-Medium.c1613691.ttf"
   },
   {
-    "revision": "e79aec4e580a0fd95f93e7ba53a6b92a",
-    "url": "./static/media/GothamPro-BlackItalic.e79aec4e.woff"
-  },
-  {
     "revision": "148d45efc780297e8b005b44b735068d",
     "url": "./static/media/GothamPro-BlackItalic.148d45ef.eot"
+  },
+  {
+    "revision": "e79aec4e580a0fd95f93e7ba53a6b92a",
+    "url": "./static/media/GothamPro-BlackItalic.e79aec4e.woff"
   },
   {
     "revision": "706777597539538a8b9db05c1a954b4a",
