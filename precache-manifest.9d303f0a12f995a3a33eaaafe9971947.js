@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "272427ba7e0f18a6517f",
+    "revision": "af8c14977cf503dd9cfc",
     "url": "./static/css/main.b005e867.chunk.css"
   },
   {
-    "revision": "272427ba7e0f18a6517f",
-    "url": "./static/js/main.7387e70e.chunk.js"
+    "revision": "af8c14977cf503dd9cfc",
+    "url": "./static/js/main.e972685a.chunk.js"
   },
   {
     "revision": "8c97409f0ee389fe75da",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "./static/media/GothamPro-BoldItalic.4088b812.eot"
   },
   {
-    "revision": "7bf8a0ed752187ea4d16d9fac8bb9040",
-    "url": "./static/media/GothamPro-BoldItalic.7bf8a0ed.woff"
-  },
-  {
     "revision": "0b468847d196e2c13527704d24d266e7",
     "url": "./static/media/GothamPro-BoldItalic.0b468847.ttf"
+  },
+  {
+    "revision": "7bf8a0ed752187ea4d16d9fac8bb9040",
+    "url": "./static/media/GothamPro-BoldItalic.7bf8a0ed.woff"
   },
   {
     "revision": "37ed223f1f7d850af5fb069d2e42b2c1",
@@ -116,12 +116,16 @@ self.__precacheManifest = [
     "url": "./static/media/GothamProNarrow-Medium.87194aeb.eot"
   },
   {
-    "revision": "6ed5bef6e44f42ec053a6603bd7c4bee",
-    "url": "./static/media/GothamProNarrow-Medium.6ed5bef6.ttf"
+    "revision": "5a0781c3275c250ca38b636c5bd4b7a0",
+    "url": "./static/media/GothamProNarrow-Medium.5a0781c3.woff"
   },
   {
     "revision": "f083fa2d4cb6eef10b43f3db3a4e488c",
     "url": "./static/media/GothamPro-LightItalic.f083fa2d.eot"
+  },
+  {
+    "revision": "6ed5bef6e44f42ec053a6603bd7c4bee",
+    "url": "./static/media/GothamProNarrow-Medium.6ed5bef6.ttf"
   },
   {
     "revision": "99a2e7292d9fd291ccad32cef31cd7a2",
@@ -142,10 +146,6 @@ self.__precacheManifest = [
   {
     "revision": "abd5115e2ddae490f9cb393fb8cdfc5a",
     "url": "./static/media/GothamPro-Light.abd5115e.ttf"
-  },
-  {
-    "revision": "5a0781c3275c250ca38b636c5bd4b7a0",
-    "url": "./static/media/GothamProNarrow-Medium.5a0781c3.woff"
   },
   {
     "revision": "3309bc970fb9a0c54595de5973a365e9",
@@ -188,7 +188,7 @@ self.__precacheManifest = [
     "url": "./static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "373e3cdba7895ac82835da848dcc649d",
+    "revision": "fed7f610651db7e9eec957b986e9bbbb",
     "url": "./index.html"
   }
 ];
